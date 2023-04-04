@@ -1,4 +1,4 @@
-# bonelab-mod-installer
+# BONELAB-mod-installer
 A Python and 7-Zip-based BONELAB mod installation tool for Windows, written with the help of ChatGPT
 
 USAGE:
