@@ -28,4 +28,4 @@ To install mods:
 
 (5) Follow remaining prompts as you see fit
 
-This script will install the mod directly into your %APPDATA%\..\LocalLow\Stress Level Zero\BONELAB\Mods folder, where the game stores all native mods. This code will still work even if you have the Mods folder on a different drive to save space using a Windows junction link, as I do. If you follow the above instuctions, the code should work without any issue. I may link a YouTube video showing proper usage if I see fit.
+This script will install the mod directly into your `%APPDATA%\..\LocalLow\Stress Level Zero\BONELAB\Mods` folder, where the game stores all native mods. This code will still work even if you have the Mods folder on a different drive to save space using a Windows junction link, as I do. If you follow the above instuctions, the code should work without any issue. I may link a YouTube video showing proper usage if I see fit.
