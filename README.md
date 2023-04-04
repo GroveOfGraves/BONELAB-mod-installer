@@ -18,7 +18,7 @@ To install mods:
 
 (0) Open the BONELAB_mod_installer.py file once Python and 7-Zip are installed, if it won't open when clicked on in Windows Explorer, run the .py through the Windows Command Prompt
 
-(1) Find the mod.io page for the mod you want to install
+(1) Find the mod.io page for the BONELAB mod you want to install (find mods here: https://mod.io/g/bonelab)
 
 (2) Right-click on the "Download file" button for the mod's Windows download option
 
