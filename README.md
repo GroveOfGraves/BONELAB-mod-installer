@@ -3,7 +3,7 @@ A Python and 7-Zip-based BONELAB mod installation tool for Windows, written with
 
 USAGE:
 
-NOTE - this script only works with native mods, code mods are stored in an installation-dependant direcotry and are therefore not supported.
+NOTE - this script only works with native mods, code mods are stored in an installation-dependant directory and are therefore not supported.
 
 This Python script requires 7-Zip and the Python requests and tqdm libaries (and obviously Python) to be installed to work. (They only need to be installed once.) If you don't have all of them installed, run the following commands (in the Windows Command Prompt), or (recommended) run the included .bat file, which will run these all automatically:
 
